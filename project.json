@@ -1,0 +1,46 @@
+{
+  "id": 41,
+  "category": "game-companion",
+  "slug": "cs2-practice-planner",
+  "target": "Counter-Strike 2",
+  "appid": "730",
+  "summaryRu": "Планировщик ручных тренировок и заметок по картам без вмешательства в игровой процесс.",
+  "features": [
+    "Map drill library",
+    "Sensitivity comparison notes",
+    "Practice session log"
+  ],
+  "title": "SmokeRoute — Counter-Strike 2 — Grenades",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "SmokeRoute",
+  "repositoryName": "smokeroute-cs2-practice-planner-grenades",
+  "githubTopics": [
+    "counter-strike-2",
+    "cs2",
+    "map-practice",
+    "sensitivity-notes",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "grenades"
+}
